@@ -1,6 +1,6 @@
-(ns admhgdb.core-test
+(ns monacella.core-test
   (:require [clojure.test :refer :all]
-            [admhgdb.core :refer :all]))
+            [monacella.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

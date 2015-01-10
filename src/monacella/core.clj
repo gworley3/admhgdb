@@ -1,4 +1,4 @@
-(ns admhgdb.core
+(ns monacella.core
   (:gen-class))
 
 (defn -main
